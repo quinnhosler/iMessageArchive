@@ -4,6 +4,6 @@ Currently a barebones implementation, this script will copy iMessage files from 
 
 ## Usage
 
-`python backup.py "$backup_hash$""`
+`python backup.py "$backup_hash"`
 
 where `$backup_hash` is the name of the folder you want to back up found in `$HOME/Library/Application Support/MobileSync/Backup`
